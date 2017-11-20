@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="btn_selected_items">Show Selected Items</string>
+    <string name="txt_hint">Selected News</string>
+    <string name="txt_name_hint">Name</string>
+    <string name="txt_desc_hint">Description</string>
+</resources>
